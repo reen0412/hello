@@ -1,2 +1,1 @@
-# hello
-Mein erstes Repository auf GitHub
+schauen wir mal
